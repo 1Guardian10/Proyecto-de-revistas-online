@@ -1,0 +1,19 @@
+{
+    "name": "vendor/noticia",
+    "description": "proyecto final para la materia de tecnologia web 1",
+    "license": "propietary",
+    "autoload": {
+        "psr-4": {
+            "Mvc\\": "./",
+            "Controllers\\": "controllers/",
+            "Models\\": "models/",
+            "Views\\": "views/"
+        }
+    },
+    "authors": [
+        {
+            "name": "losPaeso"
+        }
+    ],
+    "require": {}
+}
